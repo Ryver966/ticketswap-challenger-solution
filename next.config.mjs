@@ -5,8 +5,11 @@ const nextConfig = {
       {
         hostname: "cdn.ticketswap.com",
       },
+      {
+        hostname: "placehold.co",
+      },
     ],
   },
-}
+};
 
-export default nextConfig
+export default nextConfig;

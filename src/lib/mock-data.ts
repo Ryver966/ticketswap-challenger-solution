@@ -161,5 +161,9 @@ const events = [
 ];
 
 export async function getEvents() {
-  return events
+  return events;
+}
+
+export async function getLocations() {
+  return locations;
 }
